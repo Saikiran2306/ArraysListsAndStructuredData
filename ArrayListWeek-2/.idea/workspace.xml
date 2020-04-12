@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54845e3e-0925-4069-b1ab-7d1397315b5c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aHsbnqFsrvqPQCsaJH7Nd04O6U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/VerbsAndFruits" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/VerbsAndFruits" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GladLibMap">
+    <configuration name="CharactersInPlay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharacterNames.CharactersInPlay" />
+      <module name="ArrayListWeek-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CharacterNames.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodonCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapAssignment.CodonCount" />
+      <module name="ArrayListWeek-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HashMapAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GladLib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VerbsAndFruits.GladLib" />
+      <module name="ArrayListWeek-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VerbsAndFruits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GladLibMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapAssignment.GladLibMap" />
+      <module name="ArrayListWeek-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HashMapAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordsInFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapAssignment.WordsInFiles" />
+      <module name="ArrayListWeek-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HashMapAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GladLibMap" />
+        <item itemvalue="Application.WordsInFiles" />
+        <item itemvalue="Application.CodonCount" />
+        <item itemvalue="Application.GladLib" />
+        <item itemvalue="Application.CharactersInPlay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54845e3e-0925-4069-b1ab-7d1397315b5c" name="Default Changelist" comment="" />
+      <created>1586403927360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586403927360</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="114" width="489" height="567" key="DetectedRootsChooserDialog" timestamp="1586404207243">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="461" y="114" width="489" height="567" key="DetectedRootsChooserDialog/67.27.1299.741@67.27.1299.741" timestamp="1586404207243" />
+    <state x="338" y="141" width="735" height="513" key="FileChooserDialogImpl" timestamp="1586404205698">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="338" y="141" width="735" height="513" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1586404205698" />
+    <state width="1253" height="167" key="GridCell.Tab.0.bottom" timestamp="1586438025548">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="167" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1586438025548" />
+    <state width="1253" height="167" key="GridCell.Tab.0.center" timestamp="1586438025547">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="167" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1586438025547" />
+    <state width="1253" height="167" key="GridCell.Tab.0.left" timestamp="1586438025547">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="167" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1586438025547" />
+    <state width="1253" height="167" key="GridCell.Tab.0.right" timestamp="1586438025547">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="167" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1586438025547" />
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1586404211989">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1586404211989" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1586496066408">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1586496066408" />
+  </component>
+</project>
